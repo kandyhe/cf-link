@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Demo 1 - 外网 API",
+    "url": "https://example.com/api",
+    "tags": ["外网", "API"],
+    "notes": "公共接口，无需权限"
+  },
+  {
+    "name": "Demo 2 - 内网测试",
+    "url": "http://192.168.1.100",
+    "tags": ["内网", "测试"],
+    "notes": "需连接公司 VPN"
+  },
+  {
+    "name": "Demo 3 - 管理平台",
+    "url": "https://admin.example.com",
+    "tags": ["外网", "管理后台"],
+    "notes": "需管理员权限"
+  }
+]
